@@ -1,0 +1,44 @@
+.hepsi{
+    width:1380px;
+    height:auto;
+    
+}
+.menu{
+    width:1380px;
+    height:70px;
+    background:#9900cc;
+    margin:0 -15px 0 -7px;
+
+}
+.logo{
+    width:229px;
+    height:50px;
+    float:left;
+    
+}
+.menu ul{
+    float:left;
+    width:1151px;
+    height:60px;
+    list-style-type: none;
+}
+.menu ul li{
+    float:left;
+    margin:25px 0 0 15px;
+}
+
+.menu ul li a{
+    width:150px;
+    height:25px;
+    color:#ffcc00;
+    margin:25px 0 0 30px;
+    font:bold 18px verdana;
+}
+.menu ul li a:hover{
+    text-decoration:none;
+}
+.kapak{
+    width:1380px;
+    height:600px;
+    background:url("robotkolu.jpg");
+}
